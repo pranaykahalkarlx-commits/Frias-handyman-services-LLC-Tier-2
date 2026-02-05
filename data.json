@@ -1,0 +1,91 @@
+{
+  "businessName": "Frias handyman services, LLC",
+  "category": "Professional Services",
+  "phone": "+1 (234) 567-8900",
+  "email": "info@yourbusiness.com",
+  "address": {
+    "full": "123 Business Street, Suite 100",
+    "street": "123 Business Street",
+    "city": "New York",
+    "state": "NY",
+    "postal_code": "10001",
+    "neighborhood": ""
+  },
+  "location": {
+    "lat": 40.7128,
+    "lng": -74.006
+  },
+  "rating": 5,
+  "totalReviews": 3,
+  "hero": {
+    "headline": "Expert Handyman Services in Aurora, CO - Reliable Home Solutions",
+    "subheadline": "Professional craftsmanship for every repair and project, delivered with a friendly touch you can trust.",
+    "cta_text": "Get Your Free Quote"
+  },
+  "aboutUs": "Frias Handyman Services, LLC is proud to serve homeowners in Aurora, Colorado, providing top-quality and affordable handyman solutions. We understand that your home is your most valuable asset, and we're dedicated to ensuring every repair and improvement project is handled with professionalism, precision, and care. Our mission is to deliver exceptional results that not only meet but exceed your expectations, making home maintenance and improvements stress-free.\n\nFrom minor fixes to larger projects, our commitment to beautiful work and friendly service shines through. We prioritize clear communication and reliable execution, ensuring you receive the high-quality craftsmanship you deserve at a price that fits your budget. Trust Frias Handyman Services, LLC to keep your home in excellent condition with a team known for their great work and friendly approach.",
+  "services": [
+    {
+      "name": "General Home Repairs",
+      "description": "Tackle your home's to-do list with ease. We handle everything from leaky faucets and broken fixtures to drywall repairs, ensuring your home is always in top shape.",
+      "price": 150,
+      "duration": "60 min"
+    },
+    {
+      "name": "Home Improvement Projects",
+      "description": "Transform your living space with our expert home improvement services. We bring your vision to life with meticulous craftsmanship, enhancing the beauty and functionality of your home.",
+      "price": 150,
+      "duration": "60 min"
+    },
+    {
+      "name": "Installations & Assembly",
+      "description": "Need something installed or assembled? From shelving units and TV mounts to new appliances, we provide efficient and precise installation services to save you time and hassle.",
+      "price": 150,
+      "duration": "60 min"
+    }
+  ],
+  "testimonials": [
+    {
+      "text": "Great people great work and great time. Everything I wanted and more for a more affordable price. Beautiful work and always friendly.",
+      "author": "Maria Molina",
+      "rating": 5
+    }
+  ],
+  "uniqueSellingPoints": [
+    "Affordable Pricing",
+    "Beautiful Quality Workmanship",
+    "Friendly & Professional Service",
+    "Reliable Local Expertise in Aurora, CO",
+    "Customer Satisfaction Focused"
+  ],
+  "design": {
+    "primaryColor": "#10b981",
+    "secondaryColor": "#f59e0b",
+    "style": "modern"
+  },
+  "metaDescription": "Professional business services - Contact us for expert solutions",
+  "keywords": [
+    "business services",
+    "professional solutions"
+  ],
+  "openingHours": [
+    {
+      "day": "Monday - Friday",
+      "hours": "9:00 AM - 6:00 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "By Appointment"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "googleMapsApiKey": "",
+  "stripePublicKey": "",
+  "mainImage": "",
+  "yearEstablished": "2009",
+  "status": {
+    "permanently_closed": false
+  }
+}
